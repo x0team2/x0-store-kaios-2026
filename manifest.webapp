@@ -1,0 +1,25 @@
+{
+  "name": "Store Client",
+  "description": "Store client for KaiOS 2.5+ Devices.",
+  "type": "certified", 
+    "launch_path": "/index.html",
+  "origin": "app://store-client.cc",
+  "developer": {
+    "name": "XD"
+  },
+  "permissions": {
+    "tcp-socket": {},
+    "systemXHR": {},
+    "webapps-manage": {},
+    "engmode-extension": {},
+    "external-api": {},
+    "settings": {"access":"readwrite"},
+    "device-storage:sdcard": {"access":"readwrite"}
+  },
+  "version": "1.0.0",
+  "icons": {
+    "56": "/icon.png",
+    "112": "/icon.png",
+    "128": "/icon.png"
+  }
+}
