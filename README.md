@@ -13,7 +13,12 @@ Simulator :  [ https://x0team2.github.io/x0-store-kaios-2026/simulator.html ]
 
 ## Download Store Client For KaiOS 2.5+ Devices 
 
-Store Client : [ https://x0team2.github.io/x0-store-kaios-2026/app-zip/x0-store-kaios-client.2.5.zip ]
+Store Client : [ https://x0team2.github.io/x0-store-kaios-2026/app-zip/x0-store-client.2.5.zip ]
+
+
+## Download X0 Store KaiOS ( Web Store ) For KaiOS 2.5+ Devices 
+
+X0 Store KaiOS: [ https://x0team2.github.io/x0-store-kaios-2026/app-zip/x0-store-kaios.2.5.zip ]
 
 
 
