@@ -52,3 +52,8 @@ Join : [ https://x0.rf.gd/host/ ]
 Api : [ https://bhackers.uber.space/srs/v1/download_counter/count/x0storekaios ]
 
 Data : [ https://bhackers.uber.space/srs/v1/download_counter/ ]
+
+
+## KaiOS Proxy
+
+Proxy Api : [ https://kaios.tri1.workers.dev/?url=https://joe-x5.github.io ]
